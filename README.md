@@ -61,6 +61,8 @@ Traditional SEO methods often fall short in effectively communicating website st
    - Create a detailed project README (this document) to outline the problem, solution, and technical process.
    - Share implementation guidelines for SEO professionals to integrate ALMO into their digital marketing strategies.
 
+## Architecture Diagram
+
 
 ## Live Demo
 
