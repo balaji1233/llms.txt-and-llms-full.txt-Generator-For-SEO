@@ -62,8 +62,8 @@ Traditional SEO methods often fall short in effectively communicating website st
    - Share implementation guidelines for SEO professionals to integrate ALMO into their digital marketing strategies.
 
 ## Architecture Diagram
-
-
+![System Architecture](https://www.mermaidchart.com/raw/279fb911-0e89-4afd-b417-4c0b9fa38794?theme=light&version=v0.1&format=svg)
+![System Architecture](https://github.com/balaji1233/llms.txt-and-llms-full.txt-Generator-For-SEO/blob/main/LLM%20TXT%20GENERATOR%20-%20visual%20selection.png)
 ## Live Demo
 
 Check out the live app here: [Live App](https://llmo-aio.streamlit.app/)
